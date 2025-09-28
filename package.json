@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://KrispyLuda.github.io/CSCI_581",
+  "homepage": "https://KrispyLuda.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
