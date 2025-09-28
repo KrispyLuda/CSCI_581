@@ -1,0 +1,23 @@
+.gradient-blinds-container {
+  /* Full-viewport fixed background */
+  position: fixed;
+  inset: 0; /* top:0; right:0; bottom:0; left:0 */
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  pointer-events: none; /* allow clicks through to page content */
+  z-index: 0; /* behind app content */
+}
+
+/* Ensure the canvas inside fills the container */
+.gradient-blinds-container canvas {
+  width: 100% !important;
+  height: 100% !important;
+  display: block;
+}
+
+/* Allow the canvas to receive pointer events so mouse-driven effects work.
+   The container remains pointer-events:none so clicks pass through when desired. */
+.gradient-blinds-container canvas {
+  pointer-events: auto;
+}

@@ -7,7 +7,7 @@ function Header() {
       <div className="flex items-center">
         <img  className="h-8"  />
         <br />
-        <p>Christopher Doss Jr.   CSCI 581 - Computer Vision</p>
+        <p>Christopher Doss Jr.   CSCI 581 - Computer Vision(Graduate Student)</p>
         
       </div>
       <nav>

@@ -21,7 +21,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <Route path="/project1" element={<Project1 />} />
         {/* <Route path="/project2" element={<Project2 />} /> */}
       </Routes>
-          <Footer />
+      <Footer />
 
     </Router>
   </React.StrictMode>
