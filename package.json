@@ -1,16 +1,14 @@
 {
-  "name": "projects",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "homepage": "https://KrispyLuda.github.io",
+  "name": "csci_581",
+  "version": "1.0.0",
+  "homepage": "https://krispyluda.github.io",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-    "preview": "vite preview"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "ogl": "^1.0.11",
