@@ -6,8 +6,14 @@ import App from "./App.jsx";
 import Header from "./header.jsx";
 import Footer from "./footer.jsx";
 
+<<<<<<< HEAD
 import Project1 from "./Project1.jsx";
 import Project2 from "./Project2.jsx";
+=======
+import Project1 from "./project1.jsx";
+import Project2 from "./project2.jsx";
+
+>>>>>>> b0712b4 (Project 2)
 
 import './index.css';
 
