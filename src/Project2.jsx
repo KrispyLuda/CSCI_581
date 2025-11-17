@@ -1,9 +1,16 @@
 import Squares from './flair/Squares.jsx';
 
+<<<<<<< HEAD
 import sign from './assets/Orginal.png';
 import vsign from './assets/outline_s.png';
 
 import rsign from './assets/rect_s.png';
+=======
+import sign from './assets/sign.png';
+import vsign from './assets/visual_sign.png';
+
+import rsign from './assets/r_sign.png';
+>>>>>>> b0712b4e9b16cd89e8a9bbb3b303ca0696049a88
 
 import one from './assets/1.jpg';
 import two from './assets/2.jpg';
@@ -13,12 +20,19 @@ import five from './assets/5.jpg';
 
 import Pano from './assets/Panoroma.png';
 
+<<<<<<< HEAD
 // Fix these image imports and then post to github pages and Done 
 import TMW3 from './assets/TPMW-3.png';
 import TMW7 from './assets/Screenshot 2025-10-20 173420.png';
 
 import TPSW3 from './assets/TPS Warp-3.png';
 import TPSW7 from './assets/Screenshot 2025-10-20 173409.png';
+=======
+import TMW3 from './assets/TMW-3.png';
+import TMW7 from './assets/TMW-7.png';
+import TPSW3 from './assets/TPS Warp-3.png';
+import TPSW7 from './assets/TPS Warp-7.png';
+>>>>>>> b0712b4e9b16cd89e8a9bbb3b303ca0696049a88
 
 
 import threeA from './assets/digit_3-a.jpg';
@@ -27,7 +41,11 @@ import threeb from './assets/digit_3-b.jpg';
 import sevenA from './assets/digit_7-a.jpg';
 import sevenb from './assets/digit_7-b.jpg';
 
+<<<<<<< HEAD
 // import img from './assets/img.png';
+=======
+import img from './assets/img.png';
+>>>>>>> b0712b4e9b16cd89e8a9bbb3b303ca0696049a88
 
 
 

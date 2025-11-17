@@ -15,8 +15,6 @@ function Header() {
           <li className='font-medium text-[#45c7fe] hover:text-white no-underline space-x-4 bg-gray-800'><Link to="/">Home Page</Link></li>
           <li className='font-medium text-[#45c7fe] hover:text-white no-underline space-x-4 bg-red-800'><Link to="/project1">Project 1</Link></li>
           <li className='font-medium text-[#45c7fe] hover:text-white no-underline space-x-4 bg-red-800'><Link to="/project2">Project 2</Link></li>
-          <li className='font-medium text-[#45c7fe] hover:text-white no-underline space-x-4 bg-red-800'><Link to="/project3">Project 3</Link></li>
-
 
         </ul>
       </nav>
