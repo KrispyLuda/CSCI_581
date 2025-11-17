@@ -24,6 +24,8 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <Route path="/" element={<App />} />
         <Route path="/project1" element={<Project1 />} />
         <Route path="/project2" element={<Project2 />} />
+        <Route path="/project3" element={<Project3 />} />
+
       </Routes>
       <Footer />
 

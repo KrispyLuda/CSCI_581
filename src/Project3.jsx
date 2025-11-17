@@ -19,7 +19,7 @@ import after from './assets/Banana-nms.jpg';
 
 import pyto from './assets/Banana_pyt.jpg';
 
-export default function project2() {
+export default function Project3() {
   return (
     <main>
 <Squares 
