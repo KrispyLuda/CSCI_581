@@ -8,7 +8,7 @@ import Footer from "./footer.jsx";
 
 import Project1 from "./project1.jsx";
 import Project2 from "./project2.jsx";
-import Project3 from "./Project3.jsx";
+import Project3 from "./project3.jsx";
 
 
 
